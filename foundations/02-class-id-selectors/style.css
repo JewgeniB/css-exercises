@@ -1,0 +1,19 @@
+.podd {
+  background-color: hotpink;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#firstID {
+  color: blue;
+  font-size: 36px;
+}
+
+.addelement {
+  font-size: 24px;
+}
+
+#secID {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
